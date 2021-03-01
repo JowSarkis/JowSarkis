@@ -1,4 +1,4 @@
-## JowSarkis - Changing the world one line of code at a time
+## Joseph Sarkis - Changing the world one line of code at a time
 Hello, my name is Joseph Sarkis and I am a Junior Software Developer from Beirut, Lebanon. 
 ### What I know 
 <p> 
