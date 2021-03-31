@@ -11,6 +11,6 @@ Hello, my name is Joseph Sarkis and I am a Junior Software Developer from Beirut
 </p> 
 
 
- ### Github stats
+ ### GitHub Stats
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfsarkis&layout=compact&theme=radical" />
