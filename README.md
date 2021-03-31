@@ -1,5 +1,4 @@
-## Joseph Sarkis - Changing the world one line of code at a time
-Hello, my name is Joseph Sarkis and I am a Junior Software Developer from Beirut, Lebanon. 
+## Joseph Sarkis - Changing the world one line of code at a time 
 ### What I know 
 <p> 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge"> 
