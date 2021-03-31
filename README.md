@@ -10,3 +10,7 @@ Hello, my name is Joseph Sarkis and I am a Junior Software Developer from Beirut
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"> 
 </p> 
 
+
+ ### Github stats
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfsarkis&layout=compact&theme=radical" />
